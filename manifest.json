@@ -1,0 +1,10 @@
+{
+  "id": "folder-index-notes",
+  "name": "Folder Index Notes",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.7",
+  "description": "Keeps an index note in each folder up to date with links to the notes and subfolders inside it.",
+  "author": "Siulved54",
+  "authorUrl": "https://github.com/perezamadorluisenrique-gif",
+  "isDesktopOnly": false
+}
